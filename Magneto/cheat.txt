@@ -1,0 +1,5 @@
+tukorkepek, osszeadni igy constant kell kapni, annak a fluktuacioja az error.
+
+
+0.5Hz a modulacio, igy egy felfutas az 0.25s
+Amp 9.091 V

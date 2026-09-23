@@ -1,0 +1,18 @@
+Fit Name: Output intensity
+
+Custom Curve Fit
+f(x) = cos((x+c))*cos((x+c))-cos(2*(x+c))*sin(a/2)*sin(a/2)+b
+
+Coefficients and 95% Confidence Bounds
+     Value   Lower    Upper 
+a     1.6656    1.6478     1.6834
+b    -0.0389    -0.045    -0.0327
+c      0.964     0.874     1.0539
+
+Goodness of Fit
+           Value 
+SSE         0.0025
+R-square    0.8895
+DFE             16
+Adj R-sq    0.8757
+RMSE        0.0126
